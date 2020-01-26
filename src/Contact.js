@@ -20,9 +20,9 @@ function Contact() {
         </div>
 
 
-        <div class="row text-center">
+        <div class="container">
 
-        <div class="col-md-4 socialbubbletip">
+        <div class="col-md-4 socialbubbletip text-center">
           <span class="fa-stack fa-4x">
             <a href="mailto:aga.i.dwulit@gmail.com">
             <i class="fas fa-circle fa-stack-2x" item-color="#fed136"></i>
@@ -34,7 +34,7 @@ function Contact() {
           {/* <p class="text-muted2">Click on the bubble to start your message or hover over the bubble for details.</p> */}
         </div>
 
-        <div class="col-md-4 socialbubbletip">
+        <div class="col-md-4 socialbubbletip text-center">
           <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x"></i>
             <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
@@ -44,7 +44,7 @@ function Contact() {
           {/* <p class="text-muted2">Hover over the bubble for details.</p> */}
         </div>
 
-        <div class="col-md-4 socialbubbletip">
+        <div class="col-md-4 socialbubbletip text-center">
           <span class="fa-stack fa-4x">
           <a href="https://www.linkedin.com/in/agnieszka-dwulit/">
             <i class="fas fa-circle fa-stack-2x"></i>
@@ -55,11 +55,8 @@ function Contact() {
           {/* <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p> */}
         </div>
       </div>
-
-
-
-       </div>
-    </section>
+    </div>
+  </section>
  
   );
 }

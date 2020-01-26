@@ -16,17 +16,7 @@ function About() {
        <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">About Me</h2>
-          <h3 class="section-subheading text-muted">Hello! I'm Aga, a Full Stack Software Engineer based in Manhattan, New York.
-          {/* I'm a graduate of the Grace Hopper Academy of Code in New York City: a rigorous yet wonderfully rewarding coding bootcamp 
-          for women and non-binary folk.  */}
-          {/* , and one of the greatest empowering and character-shaping experiences I have ever had.  
-          Before moving to New York in 2019, I lived in Chicago where I worked as an Early Childhood Education Program Administrator. I have also worked in
-          the Life Insurance Industry for a couple of years while living in Minneapolis. 
-          I've loved all of my previous professional roles but software engineering holds a special spot in my heart as it feels more like a hobby than work.
-          Speaking of hobbies! Aside from coding, there are two other things I live for: pets and travels. 
-          Travel is my first nature. Nomading around the world with a backpack on my shoulders and couple dollars in my pocket is my happy place. 
-          I love animals. I have two pups of my own: Toto and Ella, whom I love more than I've ever loved anyone.  */}
-           </h3>
+          <h3 class="section-subheading text-muted">Hello! I'm Aga, a Full Stack Software Engineer based in Manhattan, New York.</h3>
         </div>
       </div>
       <div class="row">
