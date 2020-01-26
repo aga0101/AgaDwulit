@@ -16,7 +16,7 @@ function App() {
           <div class="container">
             <div class="intro-text">
               <Navbar/>
-            <div class="intro-lead-in">I'm Aga, a full stack software engineer.</div>
+            <div class="intro-lead-in"></div>
             <div class="intro-heading text-uppercase"></div>
               {/* <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a> */}
             </div>
