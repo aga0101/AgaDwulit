@@ -31,22 +31,22 @@ const Navbar = (props) => {
         <ul class="navbar-nav text-uppercase ml-auto">
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#about">
-              <b href="#about">About Me</b>
+              About Me
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#portfolio">
-              <b href="#portfolio">Portfolio</b>
+              Portfolio
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#tech">
-              <b href="#tech">Technologies</b>
+              Technologies
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">
-              <b href="#contact">Contact</b>
+              Contact
             </a>
           </li>
         </ul>

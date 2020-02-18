@@ -1,3 +1,6 @@
+import AOS from 'aos';
+import 'aos/dist/aos.css'; // You can also use <link> for styles
+// ..
 import React from 'react';
 import {HashRouter} from 'react-router-dom';
 import Navbar from './Navbar';
@@ -8,6 +11,7 @@ import Contact from './Contact';
 import './App.css';
 import './Css.css';
 
+AOS.init();
 function App() {
   return (
     <HashRouter>
@@ -16,8 +20,12 @@ function App() {
           <div class="container">
             <div class="intro-text">
               <Navbar/>
-            <div class="intro-lead-in"></div>
-            <div class="intro-heading text-uppercase"></div>
+         
+            {/* <div class="intro-heading text-uppercase">Welcome!</div> */}
+            <div class="intro-lead-in" data-aos="fade-up" data-aos-delay="1000">Hi! My name is</div>
+             <div class="intro-heading" data-aos="fade-up" data-aos-delay="1200">Aga Dwulit.</div> 
+             <div class="intro-lead-in" data-aos="fade-up" data-aos-delay="1500">I'm a Full Stack Software Engineer.</div>
+
               {/* <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#about">Tell Me More</a> */}
             </div>
           </div>

@@ -2334,7 +2334,7 @@ html {
 
 .ml-auto,
 .mx-auto {
-  margin-left: auto !important;
+  margin-left: none !important;
 }
 
 @media (min-width: 576px) {

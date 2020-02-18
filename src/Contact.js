@@ -20,28 +20,18 @@ function Contact() {
         </div>
 
 
-        <div class="container">
+        <div class="container text-center">
 
         <div class="col-md-4 socialbubbletip text-center">
           <span class="fa-stack fa-4x">
             <a href="mailto:aga.i.dwulit@gmail.com">
             <i class="fas fa-circle fa-stack-2x" item-color="#fed136"></i>
             <i class="fas fa-envelope-open-text fa-stack-1x fa-inverse"></i>
-          <span class="socialbubbletiptext2">aga.i.dwulit@gmail.com</span>
+          {/* <span class="socialbubbletiptext2">aga.i.dwulit@gmail.com</span> */}
           </a>
           </span>
           <h4 class="service-heading">e-mail</h4>
           {/* <p class="text-muted2">Click on the bubble to start your message or hover over the bubble for details.</p> */}
-        </div>
-
-        <div class="col-md-4 socialbubbletip text-center">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
-            <span class="socialbubbletiptext2">(773)  574 - 7898</span>
-          </span>
-          <h4 class="service-heading">phone</h4>
-          {/* <p class="text-muted2">Hover over the bubble for details.</p> */}
         </div>
 
         <div class="col-md-4 socialbubbletip text-center">
