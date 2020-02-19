@@ -28,7 +28,7 @@ function Portfolio() {
             <div class="modal-body">
               {/*
               <!-- Project Details Go Here --> */}
-              <h2 class="text-uppercase"><b>Toto</b></h2>
+              <h2 class="text-uppercase"><b>Toto Initiative</b></h2>
               {/* <p class="item-intro text-muted">Coming Soon!</p> */}
               <p class="item-intro text-muted mb-3">Toto Initiative is a service that connects pet lovers with
                 animal shelters to streamline donations, volunteering, and adoptions. </p>
@@ -62,7 +62,7 @@ function Portfolio() {
             </div>
           </div>
         </div>
-        
+
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">

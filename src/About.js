@@ -16,7 +16,10 @@ function About() {
        <div class="row">
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">About Me</h2>
-          <h3 class="section-subheading text-muted">Hello! I'm Aga, a Full Stack Software Engineer based in Manhattan, New York.</h3>
+          <h3 class="section-subheading text-muted">Hello! My name is Aga and I am a Full Stack Software Engineer based in Manhattan, New York.<br/> <br/>
+            After having worked in the education and insurance industries for the last 7 years, I decided to take a leap of faith and pursue my 
+            dream of becoming a software engineer. <br/> <br/> I recently graduated from the <a class="dark-link" href="https://www.gracehopper.com/"> Grace Hopper Program </a> at the <a class="dark-link" href="https://www.fullstackacademy.com/"> Fullstack Academy of Code </a> and I am eager to join a dynamic and mission-driven team.
+          </h3>
         </div>
       </div>
       <div class="row">

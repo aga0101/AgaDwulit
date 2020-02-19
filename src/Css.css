@@ -16,6 +16,10 @@
     color: #fed136;
   }
 
+  .dark-link {
+    color: #030303;
+  }
+
   a:hover {
     color: #fec503;
   }
