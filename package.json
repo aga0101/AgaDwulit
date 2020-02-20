@@ -19,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "precommit": "lint-staged",
+    "format": "prettier --write \"**/*.+ .        (js|md|html|ts|css|sass|less|graphql|yml|yaml|scss|json|vue)\""
   },
   "eslintConfig": {
     "extends": "react-app"
