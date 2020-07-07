@@ -101,6 +101,10 @@
   .img-fluid {
     margin-left: 0px !important;
   }
+
+  .aga-img {
+    min-width: 300px !important;
+  }
   
   img::-moz-selection {
     background: transparent;
